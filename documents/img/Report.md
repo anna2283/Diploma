@@ -11,4 +11,4 @@
 успешных: 50%
 
 неуспешных: 50%
-![Снимок.PNG](..%2F..%2F..%2F..%2FDesktop%2F%D1%ED%E8%EC%EE%EA.PNG)
+![Снимок](https://github.com/user-attachments/assets/9d2e4463-70bd-4211-8f0a-3df02810bfcd)
